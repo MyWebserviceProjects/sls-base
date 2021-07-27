@@ -2,7 +2,7 @@
   "name": "sls-base",
   "version": "1.0.0",
   "description": "Codingly template for Serverless Framework projects",
-  "author": "Rajeswari <agni1984@gmail.com>"
+  "author": "Rajeswari <agni1984@gmail.com>",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
